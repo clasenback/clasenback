@@ -6,6 +6,8 @@
 - 📫 Você me encontra pelo email clasen.back.eng@gmail.com
 - ⚡ Fun fact: Já tive um jeep Willys CJ5
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasenback&layout=compact&theme=dark)](https://github.com/clasenback/github-readme-stats)
+
 <!--
 **clasenback/clasenback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
